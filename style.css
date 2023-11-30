@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+}
+
+#header {
+    background-color: #202020;
+    padding: 20px 0;
+}
+
+#planetary-data {
+    margin-top: 20px;
+}
